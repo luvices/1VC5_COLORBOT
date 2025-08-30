@@ -45,13 +45,8 @@ Ubah nilainya sesuai kebutuhanmu tanpa perlu recompile!
 
 ---
 
-## 🖼 Logo
-Logo cyberpunk `1VC5_COLORBOT_logo.png` sudah disematkan. Cocok untuk splash screen, dokumentasi, atau file EXE.
-
----
-
 ## 📞 Support / Feedback
-Kalau ada masalah atau ingin fitur baru (seperti **anti-detect encrypt**, **installer**, atau **GUI**), bilang saja — aku siap bantu! 💬✨
+Kalau ada masalah add discord @1vc5 💬✨
 
 ---
 
