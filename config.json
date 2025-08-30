@@ -1,0 +1,35 @@
+{
+  "aimbot": {
+    "enabled": true,
+    "aimSpeed": 2.5,
+    "aimSmooth": 1.8,
+    "flickAimEnabled": true,
+    "flickDistance": 100,
+    "triggerbotEnabled": true,
+    "triggerDelay": 50,
+    "headshotOnly": false,
+    "scanRange": 500
+  },
+  "colorDetection": {
+    "targetColor": [255, 0, 255],
+    "tolerance": 15,
+    "minArea": 100,
+    "processInterval": 50,
+    "sensitivity": 0.8
+  },
+  "hotkey": {
+    "toggleKey": "F1",
+    "autoAimKey": "F2"
+  },
+  "logging": {
+    "enabled": true,
+    "logLevel": "INFO",
+    "maxFileSizeMB": 10
+  },
+  "antiDetection": {
+    "delayBetweenFrames": 8,
+    "randomDelay": true,
+    "minRandomDelay": 2,
+    "maxRandomDelay": 7
+  }
+}
